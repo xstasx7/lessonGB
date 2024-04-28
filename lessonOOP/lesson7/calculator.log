@@ -1,0 +1,5 @@
+INFO:root:Addition (<__main__.LoggedCalculatorModel object at 0x71e764861a10>, 2.0, 2.0) = 4.0
+INFO:root:Multiplication (<__main__.LoggedCalculatorModel object at 0x71e764861a10>, 6.0, 3.0) = 18.0
+INFO:root:Multiplication (<__main__.LoggedCalculatorModel object at 0x71e764861a10>, 2.0, 2.0) = 4.0
+INFO:root:Addition (<__main__.LoggedCalculatorModel object at 0x7359bae9dbd0>, 2.0, 4.0) = 6.0
+INFO:root:Addition (<__main__.LoggedCalculatorModel object at 0x781cb589dbd0>, 6.0, 4.0) = 10.0
